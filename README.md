@@ -3,8 +3,11 @@ Portfolio Requirement for the Applied Data Science Graduate Program at Syracuse 
 
 ## Student
 Name: Vishwanath Hegde
+
 Program: Applied Data Science
+
 SUID: 764516311
+
 email:vhegde@syr.edu
 
 
